@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu Dec 15 18:11:13 EST 2016
+2.base=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=9
+0.file=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\b64.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\b256.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\b128.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Addison\\Desktop\\COMPSCI\\labGraphics\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\b512.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
